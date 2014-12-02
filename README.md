@@ -1,6 +1,13 @@
 gdrive
 ======
 
+My attempt to have a gdrive sync working.
+See 
+
+* https://github.com/howeyc/fsnotify
+* https://developers.google.com/drive/web/quickstart/quickstart-go
+* http://stackoverflow.com/questions/20850726/upload-large-files-to-google-drive-via-golang-api
+* http://stackoverflow.com/questions/18177419/download-public-file-from-google-drive-golang
 
 ## Overview
 gdrive is a command line utility for uploading and downloading single files to your Google Drive.
