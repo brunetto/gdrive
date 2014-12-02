@@ -8,6 +8,12 @@ See
 * https://developers.google.com/drive/web/quickstart/quickstart-go
 * http://stackoverflow.com/questions/20850726/upload-large-files-to-google-drive-via-golang-api
 * http://stackoverflow.com/questions/18177419/download-public-file-from-google-drive-golang
+* https://github.com/rakyll/drive
+* https://github.com/google/skicka
+* https://github.com/ncw/rclone
+* https://github.com/orian/google_drive_upload
+* https://github.com/jnwhiteh/gdrive-backup
+* https://github.com/tenntenn/god
 
 ## Overview
 gdrive is a command line utility for uploading and downloading single files to your Google Drive.
