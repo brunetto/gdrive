@@ -4,6 +4,7 @@ gdrive
 My attempt to have a gdrive sync working.
 See 
 
+* https://www.thefanclub.co.za/how-to/ubuntu-google-drive-client-grive-and-grive-tools
 * https://github.com/howeyc/fsnotify
 * https://developers.google.com/drive/web/quickstart/quickstart-go
 * http://stackoverflow.com/questions/20850726/upload-large-files-to-google-drive-via-golang-api
